@@ -56,6 +56,6 @@
 
 <p align="left">
   <a href="mailto:daniellawal015@gmail.com"><img src="https://img.shields.io/badge/Email-daniellawal015%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/dl_web3"><img src="https://img.shields.io/badge/X%20(Twitter)-%40dl__web3-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/DanielLawa35431"><img src="https://img.shields.io/badge/X%20(Twitter)-%40DanielLawa35431-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/daniel-lawal-135b54418"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lawal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
