@@ -1,40 +1,61 @@
-# Lawal Daniel
+# ⚡ Lawal Daniel
 
-**Full Stack Developer | Web Architect | Problem Solver**
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20PHP%20%7C%20Node-blue?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Deploying-green?style=for-the-badge" alt="Status" />
+</p>
 
----
-
-### 🧠 Engineering Philosophy
-
-I build web application systems that are **scalable, performant, and production-ready**.
-
-With a strong foundation in modern JavaScript ecosystems, responsive interface design, and PHP/Node.js backends, I focus on:
-
-* Designing resilient backend API endpoints and data workflows
-* Crafting fast, accessible, and clean frontend experiences
-* Writing structured, maintainable, and extensible code
-* Solving real-world web problems with pragmatic engineering
+> **Turning complex problems into clean, interactive, and production-ready web experiences.**  
+> Driven by performance, modern user interface design, and resilient backend architecture.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-* **Languages:** JavaScript (ES6+), PHP, Python, HTML5, CSS3
-* **Frontend & Styling:** React, Tailwind CSS, Vite
-* **Backend & Databases:** Node.js, Express, PHP, MySQL
-* **Tools & Workflow:** Git, GitHub, VS Code, Vercel
-
----
-
-### 📌 Featured Projects
-
-* **Portfolio Website:** Custom interactive portfolio built with modern JS & PHP backend
-* **R-Rise Foundation:** Responsive web platform deployed for charity outreach
+* 🎯 **What I Do:** I craft full-stack web applications, focusing on crisp UI design systems and secure server-side logic.
+* 🛠️ **Core Specialization:** Modern frontend engineering (React, Tailwind CSS, Vite) integrated with lightweight PHP & Node.js backends.
+* 💡 **Engineering Mindset:** I write code with a strong emphasis on maintainability, semantic structure, speed, and real-world utility.
+* 📍 **Location & Focus:** Based in Lagos, Nigeria — building client solutions, open-source projects, and scalable web interfaces.
 
 ---
 
-### 📫 Let's Connect
+### 🧰 Tech Stack & Toolbox
 
-* **Portfolio:** [Your Portfolio Link]
-* **Twitter / X:** [[DAMI™](https://x.com/dl_web3)](https://x.com/DanielLawa35431)
-* **Email:** [daniellawal015@gmail.com](mailto:daniellawal015@gmail.com)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)` `PHP` `Python` `HTML5` `CSS3` |
+| **Frontend Development** | `React` `Tailwind CSS` `Vite` `CSS Grid/Flexbox` `REST APIs` |
+| **Backend & Server** | `PHP (PHPMailer, Custom Endpoints)` `Node.js` `Express` `MySQL` |
+| **Workflow & DevOps** | `Git` `GitHub` `VS Code` `Termux` `Netlify` `Vercel` |
+
+---
+
+### 🚀 Featured Highlights & Projects
+
+* 🌐 **Interactive Portfolio:** A bespoke portfolio featuring a custom dark UI theme, smooth animations, and a PHP/PHPMailer contact pipeline.
+* 🏢 **R-Rise Foundation Platform:** Fully responsive web application built and deployed for charity outreach and community initiatives.
+* 🎨 **UI/UX Craftsmanship:** Matching exact Figma design specifications with pixel-perfect, accessible component logic.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### ⚡ Quick Trivia / Code Habits
+
+* 💬 **Ask me about:** JavaScript DOM interactions, responsive CSS layouts, PHP mail configurations, and modern web deployment strategies.
+* ⚡ **Fun Fact:** When I'm not writing code or debugging API endpoints, I'm analyzing European football tactics or managing web projects.
+* 📫 **Let's Connect & Collaborate:**
+
+<p align="left">
+  <a href="mailto:daniellawal015@gmail.com"><img src="https://img.shields.io/badge/Email-daniellawal015%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/dl_web3"><img src="https://img.shields.io/badge/X%20(Twitter)-%40dl__web3-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/daniel-lawal-135b54418"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lawal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
