@@ -36,5 +36,5 @@ With a strong foundation in modern JavaScript ecosystems, responsive interface d
 ### 📫 Let's Connect
 
 * **Portfolio:** [Your Portfolio Link]
-* **Twitter / X:** [@dl_web3](https://x.com/dl_web3)
+* **Twitter / X:** [[DAMI™](https://x.com/dl_web3)](https://x.com/DanielLawa35431)
 * **Email:** [daniellawal015@gmail.com](mailto:daniellawal015@gmail.com)
