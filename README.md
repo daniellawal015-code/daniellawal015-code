@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20PHP%20%7C%20Node-blue?style=for-the-badge" alt="Stack" />
+ 
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Deploying-green?style=for-the-badge" alt="Status" />
 </p>
 
